@@ -1,1 +1,2 @@
 # DataStructure
+主要内容是JavaScript的基础，包括基本语法与用法，以及常用数据结构如队列、栈等用JavaScript的实现，常用算法的JavaScript实现。
